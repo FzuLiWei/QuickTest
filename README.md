@@ -3,7 +3,7 @@
 
 		简而言之是一款测试app的android app，当时制作目的，只是想将繁复的PC测试转移至移动端，简单化。
 		
-<b>[下载地址](http://test.99.com/FileDownLoad?filepath=http://test.99.com/yunftp/quicktestAPK/quicktest.apk)</b>
+<b>下载地址: [快测app](http://test.99.com/FileDownLoad?filepath=http://test.99.com/yunftp/quicktestAPK/quicktest.apk)</b>
 		
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/main.png"/>
 
