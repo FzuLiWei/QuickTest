@@ -1,8 +1,11 @@
 # QuickTest
-快测app：简而言之是一款测试app的android app，当时制作目的，只是想将繁复的PC测试转移至移动端，简单化。
+<b>快测app：</b>
+
+		简而言之是一款测试app的android app，当时制作目的，只是想将繁复的PC测试转移至移动端，简单化。
+		
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/main.png"/>
 
-主要分为四个功能，Android手机需要Root，请在测试前先使用kingroot等软件一键root.
+<b>主要分为四个功能，Android手机需要Root，请在测试前先使用kingroot等软件一键root.</b>
 
 <b>(1)遍历测试：</b>
 
