@@ -5,6 +5,7 @@
 主要分为四个功能，Android手机需要Root，请在测试前先使用kingroot等软件一键root.
 
 <b>(1)遍历测试：</b>
+
 		针对软件应用的控件遍历测试，包括控件点击、控件滑动操作，测试完成后会自动过滤日志，查找崩溃信息，并生成控件映射节点，帮助开发快速定位Bug控件。
 
 		报告demo: http://test.99.com/QuickTest/QuickTestReport?taskid=558 
@@ -17,7 +18,7 @@
 		5.若开启弱网络功能,可以模似弱网络场景下的应用表现.
 		6.可以系统设置邮箱，测试完后自动推送至邮箱。
 		
-		<img src="https://github.com/FzuLiWei/QuickTest/blob/master/traversal.gif"/>
+<img src="https://github.com/FzuLiWei/QuickTest/blob/master/traversal.gif"/>
 		
 <b>(2)应用监控：</b>
 
@@ -28,7 +29,7 @@
 		3、	开启截屏功能后，会根据用户的操作触发手机截屏，与性能数据形成一对一映射。
 		4、	开启弱网络功能后，可以模似弱网络场景下的应用表现.
 		
-		<img src="https://github.com/FzuLiWei/QuickTest/blob/master/performance.gif"/>
+<img src="https://github.com/FzuLiWei/QuickTest/blob/master/performance.gif"/>
 
 <b>(3)稳定性测试：</b>
 
@@ -37,7 +38,7 @@
 		1、	软件测试：使用Android 的Monkey工具，同时增加模糊测试功能（基于Intent Fuzzer，给应用组件发送Null Intent，来检测APP是否崩溃）。
 		2、	游戏测试：实现原理基于图像引擎,模糊识别控件,生成更有效的点击序列;更准确的触发游戏功能,保证游戏稳定性测试的范围.
 		
-		<img src="https://github.com/FzuLiWei/QuickTest/blob/master/stability.png"/>
+<img src="https://github.com/FzuLiWei/QuickTest/blob/master/stability.png"/>
 		
 <b>(4)录制回放：</b>
 
@@ -48,7 +49,7 @@
 
 		回放功能：在脚本仓库里选择已录制的脚本进行回放，同时在回放结束后会自动解析日志。
 		
-		<img src="https://github.com/FzuLiWei/QuickTest/blob/master/record.png"/>
+<img src="https://github.com/FzuLiWei/QuickTest/blob/master/record.png"/>
 		
 <b>遍历测试登陆F&Q</b>
 
@@ -68,13 +69,13 @@
 		4、	显示系统应用：在选择测试应用选项，默认为只显示第三方应用，若是Android ROM的系统应用测试人员，可勾选会显示Android系统应用；
 		5、	仅WIFI下联网：在测试完成后，程序会自动同步测试记录至后台，默认仅在WIFI情况下同步，防止手机流量浪费。
 
-		<img src="https://github.com/FzuLiWei/QuickTest/blob/master/setting.png"/>
+<img src="https://github.com/FzuLiWei/QuickTest/blob/master/setting.png"/>
 		
 		
 <b>二维码</b>
 		
 		扫描下方二维码关注快测app最新动态
-		<img src="https://github.com/FzuLiWei/QuickTest/blob/master/code.jpg"/>
+<img src="https://github.com/FzuLiWei/QuickTest/blob/master/code.jpg"/>
 		
 
 
