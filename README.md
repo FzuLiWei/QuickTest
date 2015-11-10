@@ -3,6 +3,8 @@
 
 		简而言之是一款测试app的android app，当时制作目的，只是想将繁复的PC测试转移至移动端，简单化。
 		
+		下载地址: <A herf="http://test.99.com/FileDownLoad?filepath=http://test.99.com/yunftp/quicktestAPK/quicktest.apk"></A>
+		
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/main.png"/>
 
 
@@ -13,7 +15,7 @@
 
 		针对软件应用的控件遍历测试，包括控件点击、控件滑动操作，测试完成后会自动过滤日志，查找崩溃信息，并生成控件映射节点，帮助开发快速定位Bug控件。
 
-		报告demo: http://test.99.com/QuickTest/QuickTestReport?taskid=558 
+		报告demo: <A herf="http://test.99.com/QuickTest/QuickTestReport?taskid=558"></A>
 
 		实现原理：基于Android原生的uiautomator. 
 		1.暂时只支持Native App,不支持H5及混合应用; 
