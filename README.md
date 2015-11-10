@@ -5,7 +5,9 @@
 		
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/main.png"/>
 
+
 <b>主要分为四个功能，Android手机需要Root，请在测试前先使用kingroot等软件一键root.</b>
+
 
 <b>(1)遍历测试：</b>
 
@@ -23,6 +25,8 @@
 		
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/traversal.gif"/>
 		
+		
+		
 <b>(2)应用监控：</b>
 
 		针对测试人员在手工测试过程中的应用监控；
@@ -34,6 +38,8 @@
 		
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/performance.gif"/>
 
+
+
 <b>(3)稳定性测试：</b>
 
 		针对测试应用的稳定性，分软件与游戏两种测试方式；
@@ -42,6 +48,8 @@
 		2、	游戏测试：实现原理基于图像引擎,模糊识别控件,生成更有效的点击序列;更准确的触发游戏功能,保证游戏稳定性测试的范围.
 		
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/stability.png"/>
+		
+		
 		
 <b>(4)录制回放：</b>
 
@@ -54,6 +62,8 @@
 		
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/record.png"/>
 		
+		
+		
 <b>遍历测试登陆F&Q</b>
 
 		1.适用范围：系统版本在4.1至4.4的设备；
@@ -64,6 +74,8 @@
 		6.键盘需设置成正常键盘，浮动键盘影响点击效果；
 		7.部分机型（oppo中有发现）存在纯净后台模式，遍历功能无法使用；
  
+ 
+ 
 <b>设置</b>
 
 		1、	设置邮箱：设置后测试记录都会推送至指定邮箱；
@@ -73,6 +85,7 @@
 		5、	仅WIFI下联网：在测试完成后，程序会自动同步测试记录至后台，默认仅在WIFI情况下同步，防止手机流量浪费。
 
 <img src="https://github.com/FzuLiWei/QuickTest/blob/master/setting.png"/>
+		
 		
 		
 <b>二维码</b>
