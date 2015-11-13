@@ -111,11 +111,7 @@
 
 <b>由于很多是自主研发的功能, 所以Android手机需要Root，请在测试前先使用kingroot等软件一键root.</b>
 		
-		
-		
-扫描下方二维码关注QuickTest最新动态, 可以不定期收到各种测试干货
 
-<img src="https://github.com/FzuLiWei/QuickTest/blob/master/code.jpg"/>
 		
 
 
